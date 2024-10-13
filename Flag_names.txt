@@ -1,0 +1,50 @@
+us,United States,USA,US
+ca,Canada
+gb,United Kingdom, England,UK
+de,Germany
+fr,France
+jp,Japan
+cn,China
+in,India
+br,Brazil
+ru,Russia
+au,Australia
+za,South Africa
+mx,Mexico
+kr,South Korea
+it,Italy
+es,Spain
+se,Sweden
+no,Norway
+ch,Switzerland
+nl,Netherlands
+tr,Turkey
+pl,Poland
+be,Belgium
+ar,Argentina
+cl,Chile
+pt,Portugal
+sa,Saudi Arabia,KSA
+eg,Egypt
+ir,Iran
+th,Thailand
+vn,Vietnam
+nz,New Zealand
+id,Indonesia
+ph,Philippines
+my,Malaysia
+sg,Singapore
+bd,Bangladesh
+ng,Nigeria
+ke,Kenya
+ua,Ukraine
+at,Austria
+dk,Denmark
+fi,Finland
+ps,Palestine
+gr,Greece
+ie,Ireland
+hu,Hungary
+cz,Czech Republic
+ro,Romania
+sk,Slovakia
